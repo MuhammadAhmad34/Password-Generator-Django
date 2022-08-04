@@ -1,0 +1,9 @@
+.bg{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+}
+
+.bord{
+    border: 2px solid black;
+    border-radius: 10px; 
+}
