@@ -1,2 +1,2 @@
 # Password-Generator-Django
-Tis Django Project is Use for Generating Passwords 
+This Django Project is Use for Generating Passwords
